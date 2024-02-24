@@ -5,7 +5,7 @@ nav_order: 3
 has_children: true
 ---
 
-# What is phishing
+# What is phishing?
 Phishing is a method used by scammers to trick you into giving them your personal and financial information. You may receive an e-mail (phishing) or SMS (smishing) which appears to be sent by your bank or another institution or company that you know and trust. The sender asks you to give your personal information like username and password. The purpose of such messages is to encourage you to click a link or open an attachment.
 Be careful when the message says that:
 - there is some suspicious activity or log-in attempt in your account,
@@ -19,7 +19,7 @@ Be careful when the message says that:
 - you inherited money from a distant relative
 - someone paid you money and to receive it you should click the link
 	
-## WHAT TO DO IF YOU ARE UNSURE
+## WHAT TO DO IF YOU HAVE DOUBTS
 Check the extension of the attachment to your e-mail (.exe, .js, .iso, .img, .htm, .html may indicate a scam). 
 
 ## REMEMBER
