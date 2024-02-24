@@ -1,3 +1,8 @@
+---
+title: What is phishing
+layout: default
+---
+
 # What is phishing
 Phishing is a method used by scammers to trick you into giving them your personal and financial information. You may receive an e-mail (phishing) or SMS (smishing) which appears to be sent by your bank or another institution or company that you know and trust. The sender asks you to give your personal information like username and password. The purpose of such messages is to encourage you to click a link or open an attachment.
 Be careful when the message says that:

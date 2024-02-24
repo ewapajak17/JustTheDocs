@@ -1,3 +1,8 @@
+---
+title: How to deal with an SME
+layout: default
+---
+
 # How to Handle an Unresponsive SME - Instructions for Technical Writers
 People often associate the work of a technical writer solely with the laborious task of crafting instructions, user guides, and release notes. While this perception holds some truth, it only scratches the surface. In reality, a technical writer must first acquaint themselves with the product and comprehend its features. Conducting research, locating useful documentation and engaging in the writing process are half the battle. Equally crucial is to acquire essential information from a **Subject-Matter Expert** – a task that is not always straightforward.
 
