@@ -1,4 +1,4 @@
 ---
-title: How to deal with an SME
+title: Examples
 layout: default
 ---
