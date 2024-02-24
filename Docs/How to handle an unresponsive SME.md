@@ -10,7 +10,7 @@ To begin with, let's define what a **Subject-Matter Expert** entails.
 
 This individual, in short called an SME, is someone with extensive expertise in a particular field supported by their educational background, practical experience and noteworthy achievements. When a technical writer seeks to obtain information about a product, clarify uncertainties, and pose questions, this is the person they should approach first. Nevertheless, establishing contact with an SME may be a tough nut to crack.
 
-[Alt text]../Images/!(<toughnuttocrack.jpg>)
+[Alt text]!(<toughnuttocrack.jpg>)
 
 Below you will find a few small tips.
 
