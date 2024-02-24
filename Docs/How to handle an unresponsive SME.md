@@ -1,6 +1,7 @@
 ---
 title: How to deal with an SME
 layout: default
+nav_order: 2
 ---
 
 # How to Handle an Unresponsive SME - Instructions for Technical Writers
