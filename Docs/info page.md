@@ -1,4 +1,4 @@
 ---
-title: How to create a Just the Doc site
+title: How to deal with an SME
 layout: default
 ---
